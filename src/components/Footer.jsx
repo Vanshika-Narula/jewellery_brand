@@ -3,8 +3,8 @@ import { FaInstagram } from "react-icons/fa";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-white py-10 text-center">
-      <div className="max-w-4xl mx-auto px-6">
+    <footer className="w-full bg-gray-900 text-white py-10">
+      <div className="max-w-6xl mx-auto px-6 text-center">
         {/* Copyright */}
         <p className="text-gray-400 text-sm mb-6">
           &copy; {new Date().getFullYear()} Mudrika Jewellers. All rights reserved.
