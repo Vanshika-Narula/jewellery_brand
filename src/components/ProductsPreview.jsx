@@ -1,9 +1,9 @@
 import React from "react";
 
 // Import images from assets (replace with your real ones)
-import img1 from "../assets/img1.jpg";
-import img2 from "../assets/img2.jpg";
-import img4 from "../assets/img4.jpg";
+import img1 from "../assets/img1.webp";
+import img2 from "../assets/img2.webp";
+import img4 from "../assets/img4.webp";
 
 export default function ProductsPreview() {
   const featuredProducts = [

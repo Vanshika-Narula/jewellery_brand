@@ -1,7 +1,7 @@
 import React from 'react';
-import img1 from "../assets/img1.jpg";
-import img7 from "../assets/img7.png";
-import img8 from "../assets/img8.png";
+import img1 from "../assets/img1.webp";
+import img7 from "../assets/img7.webp";
+import img8 from "../assets/img8.webp";
 
 const products = [
   { id: 1, name: "Gold Necklace", image: img1 },

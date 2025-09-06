@@ -1,5 +1,5 @@
 import React from 'react';
-import img9 from "../assets/img9.png";
+import img9 from "../assets/img9.webp";
 
 export default function Hero() {
   return (

@@ -1,8 +1,7 @@
 import React from 'react';
 import Hero from '../components/Hero';
 import ProductsPreview from '../components/ProductsPreview';
-import PromoSection from '../components/PromoSection';
-import imgg from "../assets/imgg.png";
+import imgg from "../assets/imgg.webp";
 
 export default function Home() {
   return (

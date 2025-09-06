@@ -1,7 +1,7 @@
 import React from 'react';
-import img1 from "../assets/img1.jpg";
-import img4 from "../assets/img4.jpg";
-import img5 from "../assets/img5.jpg";
+import img1 from "../assets/img1.webp";
+import img4 from "../assets/img4.webp";
+import img5 from "../assets/img5.webp";
 
 export default function About() {
   return (
