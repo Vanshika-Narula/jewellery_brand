@@ -13,7 +13,7 @@ export default function ProductsPreview() {
   ];
 
   return (
-    <section className="p-8 text-center">
+    <section className="p-4 text-center">
       <h2 className="text-6xl font-extrabold mb-8 text-yellow-700 font-serif tracking-wide">
         Featured Products
       </h2>

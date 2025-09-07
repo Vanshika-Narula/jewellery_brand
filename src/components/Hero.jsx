@@ -3,7 +3,7 @@ import img9 from "../assets/img9.webp";
 
 export default function Hero() {
   return (
-    <div className="relative h-[80vh] w-full">
+    <div className="relative h-[100vh] w-full">
       {/* Background Image */}
       <div
         className="absolute inset-0 bg-cover bg-center"

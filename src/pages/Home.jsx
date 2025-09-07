@@ -20,9 +20,12 @@ export default function Home() {
         <PromoSection />
       </div> */}
 
-      <div className="min-h-[70vh] py-24 bg-gray-50">
-        <img src={imgg} alt="Jewellery Promo" className="w-full h-100 object-cover rounded-lg shadow-lg" />
-        </div>
+      <div className="min-h-[100vh] py-24 bg-gray-50">
+        <img src={imgg} alt="Jewellery Promo" className="w-full h-100 object-contain rounded-lg shadow-lg" />
+      </div>
+
+
+
       {/* Contact Info Section */}
       <div className="min-h-[80vh] bg-gray-100 py-32 px-8 mt-12">
         <h2 className="text-6xl font-bold text-center text-yellow-700 mb-12 font-serif">
